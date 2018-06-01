@@ -4,10 +4,10 @@
 	background-image: url(images/ar1.jpg);
 	height: 137px;
 	width: 900px;
-	margin-top: auto;
-	margin-right: 0px;
-	margin-bottom: auto;
-	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
 }
 #content {
 	background-image: url(images/ar2.jpg);
